@@ -11,3 +11,5 @@ The idea is built with a little background in mind of Amazon's wishlisting conce
 The concept can be used with the same use-case for e-commerce platforms where a Customer can set his alert preferences for particular items. So when that items is available or back in stock, the system triggers an alert message to the Customer's phone.
 
 The system can also be used to solve various other business use-cases.
+
+![](diagram.png)
